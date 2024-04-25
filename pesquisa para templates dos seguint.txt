@@ -1,0 +1,17 @@
+pesquisa para templates dos seguintes site.
+- Barbearia
+- Atelier
+- Blog pessoal
+- Serviços
+
+Objetivo:
+Proporcionar uma idéia de grandiosidade para cada negócio, hoje com o avanço da técnologia ficar fora dela significa um risco para quem tem um negócio.
+
+As pessoas estão navegando pela internet procurando algo que os satisfaçam tirem o tédio e o stress do trabalho e da vida, estão procurando um meio de realizar seus sonhos em busca de riqueza e beleza e o seu negócio têm que estar lá para quando eles clicar lhe vejam como a solução dos seus problemas.
+
+Vamos criar páginas com as seguintes interações
+- Página inicial
+- Fotos
+- Sobre
+- Comentários
+- redes sociais.
